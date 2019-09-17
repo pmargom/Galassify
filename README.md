@@ -1,5 +1,7 @@
 # Galassify
 
+Galassify es un sistema automático de clustering y extracción de outliers de galaxias a partir de los espectros de éstas en el SDSS (Sloan Digital Sky Survey). 
+
 Se muestran los notebooks principales empleados en el desarrollo de la solución técnica de Galassify. 
 
 Los notebooks con los que se obtiene la solución final entregada en el Sprint 1 al IAC son:
