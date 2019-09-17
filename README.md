@@ -14,9 +14,9 @@ Los demás son pruebas de concepto y desarrollos intermedios.
 
 Este proyecto ha sido creado (y sigue desarrollándose) con mucho cariño por:
 
-* Arvin Daswani Daswani
-* Pedro Martín Gómez
-* Silvia Peraza Delgado
+* Arvin Daswani Daswani, arvinpd@gmail.com
+* Pedro Martín Gómez, pmargom@gmail.com
+* Silvia Peraza Delgado, sperazad@gmail.com
 * Jose Luis Quintero García, joselquin@gmail.com
-* Vicente Tetuani Sánchez
+* Vicente Tetuani Sánchez, vtetuani@gmail.com
 
